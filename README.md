@@ -3,10 +3,8 @@
 
 Welcome to my Django-based To-Do List web application, where users can seamlessly create, manage, and share their personal to-do lists. This feature-rich application empowers users with the ability to register, log in, search, and perform comprehensive CRUD (Create, Read, Update, Delete) operations on their tasks. The application also includes filtering capability for efficient task management.
 
+<img width="960" alt="image" src="https://github.com/PraveenVemasani/Luminara_Tasks/assets/107190143/c15662eb-9f88-4910-8b9f-56a9a71eac9a">
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)Home
 
 
 ## Class-Based Views
